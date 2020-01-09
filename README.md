@@ -15,9 +15,10 @@ Example: Numbers from 1 to 20; Return:
 ## Running
 
 In the file index.html you will find the challenge code. To run the application, click the link bellow. 
-[Run Challenge https://raquelroldo.github.io/log-test/index.html]
+[Run Challenge](https://raquelroldo.github.io/log-test/index.html)
 
 
 ## Testing
 
 In the file testing.js is where you will find the unit test using QUnit plugin. To run the tests, click on link bellow. 
+[Run Tests](https://raquelroldo.github.io/log-test/testing.html)
