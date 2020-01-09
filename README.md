@@ -15,7 +15,7 @@ Example: Numbers from 1 to 20; Return:
 ## Running
 
 In the file index.html you will find the challenge code. To run the application, click the link bellow. 
-[Run Challenge]https://raquelroldo.github.io/log-test/index.html
+[Run Challenge https://raquelroldo.github.io/log-test/index.html]
 
 
 ## Testing
