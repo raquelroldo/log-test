@@ -1,6 +1,6 @@
 # log-test
 Programming Logic
-## Challeng
+## Challenge
 Write a program that returns the following to a contiguous sequence of numbers:
 
 - Whenever a number multiple of 3 occurs or contains 3 in its representation, it should be replaced by the word “fizz”;
